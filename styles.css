@@ -1,0 +1,48 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+.navbar{
+height: 52px;
+background: #acaaaa;
+
+
+}
+
+.icone{
+    width: 120 px;
+    height: 25 px;
+    flot : left;
+    margin-top: 11px;
+
+}
+
+.logo{
+    width: 800 px;
+    color : #0A1222;
+    font-size: 21px;
+    font-family: monospace ;
+    float : left;
+
+}
+
+.menu{
+    width: 90px;
+    height: 11;
+    float : left;
+
+}
+ul{
+    float : left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li{
+    list-style-type: none;
+    margin-left: 50px;
+    margin-top: 21px;
+}
+
