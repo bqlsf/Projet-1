@@ -5,7 +5,10 @@
 
 .navbar{
 height: 52px;
-background: #acaaaa;
+background: #ffffff;
+display : flex;
+justify-content: space-around;
+
 
 
 }
@@ -23,18 +26,18 @@ background: #acaaaa;
     color : #0A1222;
     font-size: 21px;
     font-family: monospace ;
-    float : left;
+    
 
 }
 
 .menu{
     width: 90px;
-    height: 11;
-    float : left;
+    height: 11px;
+    
 
 }
 ul{
-    float : left;
+   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,4 +48,4 @@ ul li{
     margin-left: 50px;
     margin-top: 21px;
 }
-
+.
